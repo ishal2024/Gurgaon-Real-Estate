@@ -400,7 +400,7 @@ function OfficeLocation() {
               </div>
               <div className="flex items-center gap-2.5">
                 <Mail className="w-4 h-4 text-[#C9A227] shrink-0" />
-                <span>info@gurugramrealty.com</span>
+                <span>support@thegurgaonrealestate.in</span>
               </div>
             </div>
 

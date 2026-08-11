@@ -92,7 +92,7 @@ export default function Footer() {
                     <Mail className="w-4 h-4" />
                   </div>
                   <a href="mailto:info@gurugramrealty.com" className="font-light hover:underline decoration-[#C9A227]">
-                    info@gurugramrealty.com
+                    support@thegurgaonrealestate.in
                   </a>
                 </div>
 

@@ -33,7 +33,7 @@ const agriculture_land = [
     location: {
       country: "India",
       state: "Rajasthan",
-      address: "Alwar, Rajasthan",
+      address: "Nuh, Haryana",
     },
 
     category : "Agriculture Land",
@@ -60,7 +60,7 @@ const agriculture_land = [
     location: {
       country: "India",
       state: "Haryana",
-      address: "Nuh, Haryana",
+      address: "Alwar Nogawa, Rajasthan",
     },
 
     category : "Agriculture Land",
@@ -114,7 +114,7 @@ const agriculture_land = [
     location: {
       country: "India",
       state: "Haryana",
-      address: "Nogawa, Haryana",
+      address: "Firozpur Jhirka, Nuh, Haryana",
     },
 
     category : "Agriculture Land",
@@ -144,7 +144,7 @@ const farm_land = [
     location: {
       country: "India",
       state: "Haryana",
-      address: "Vatika Western, Sohna, Haryana",
+      address: "Sohna Faridabad Road, Haryana",
     },
 
     category : "Farm Land",
@@ -172,7 +172,7 @@ const farm_land = [
     location: {
       country: "India",
       state: "Haryana",
-      address: "Faridabad, Haryana",
+      address: "Westin Vatika, Sohna, Haryana",
     },
 
     category : "Farm Land",
