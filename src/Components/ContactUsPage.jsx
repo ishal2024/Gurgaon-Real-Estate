@@ -71,10 +71,10 @@ const CONTACT_CARDS = [
   {
     id: 'email',
     title: 'Email',
-    value: 'info@gurugramrealty.com',
+    value: 'support@thegurgaonrealestate.in',
     subtitle: 'Our advisory team responds within 2 hours',
     icon: Mail,
-    href: 'mailto:info@gurugramrealty.com'
+    href: 'mailto:support@thegurgaonrealestate.in'
   },
   {
     id: 'address',
